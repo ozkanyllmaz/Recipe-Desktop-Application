@@ -14,8 +14,8 @@ Kullanıcıların yemek tariflerini saklayabileceği ve mevcut malzemelerle hang
 </p>
 
 <p align = "center">
-    <img src = "https://github.com/user-attachments/assets/7e0c9ee3-04e5-4496-a16e-d1e562314ed5" alt = Resim1 width = 50%>
-    <img src = "https://github.com/user-attachments/assets/72ac8671-5b1c-4a8d-ab35-dc170e1628d2" alt = Resim1 width = 50%>
+    <img src = "https://github.com/user-attachments/assets/7e0c9ee3-04e5-4496-a16e-d1e562314ed5" alt = Resim1 width = 45%>
+    <img src = "https://github.com/user-attachments/assets/72ac8671-5b1c-4a8d-ab35-dc170e1628d2" alt = Resim1 width = 45%>
 </p>
 
  
