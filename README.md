@@ -9,8 +9,15 @@ Kullanıcıların yemek tariflerini saklayabileceği ve mevcut malzemelerle hang
 4. Kullanıcı arayüzü tasarımı ve kullanıcı dostu yazılım geliştirme hakkında deneyim kazandırılması.
 
 ## Ekran Resimleri
-![Ekran Görüntüsü (348)](https://github.com/user-attachments/assets/38592677-e2f2-458d-bc6e-2965cab1bc2e)
+<p align = "center">
+    <img src = "https://github.com/user-attachments/assets/38592677-e2f2-458d-bc6e-2965cab1bc2e" alt = Resim1 width = 100%> 
+</p>
 
+<p align = "center">
+    <img src = "https://github.com/user-attachments/assets/7e0c9ee3-04e5-4496-a16e-d1e562314ed5" alt = Resim1 width = 50%>
+</p>
+
+ 
 ---
 
 ## 1. Veritabanı Tasarımı
