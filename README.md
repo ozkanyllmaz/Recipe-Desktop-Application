@@ -80,7 +80,7 @@ Uygulamanın veritabanı, tarifleri ve malzemeleri yönetmek için birkaç iliş
 ---
 
 ## Kullanılan Teknolojiler
-- Programlama Dili: C# veya JAVA
+- Programlama Dili: JAVA
 - Veritabanı: İlişkisel veritabanı (ör. PostgreSQL)
 - Kullanıcı Arayüzü: Masaüstü uygulama için GUI tasarımı (Swing veya benzer GUI kütüphaneleri)
 
