@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YemekTarifiApp:jar">
+    <output-path>$USER_HOME$/OneDrive/Masaüstü</output-path>
+    <root id="archive" name="YemekTarifiApp.jar">
+      <element id="module-output" name="YemekTarifiApp" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/postgresql-42.6.2.jar" path-in-jar="/" />
+      <element id="library" level="project" name="mysql-connector-j-9.0.0" />
+    </root>
+  </artifact>
+</component>
