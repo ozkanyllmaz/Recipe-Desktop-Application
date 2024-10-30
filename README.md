@@ -10,8 +10,8 @@ Kullanıcıların yemek tariflerini saklayabileceği ve mevcut malzemelerle hang
 
 ## Ekran Resimleri
 <p align="center">
-  <img src="![Ekran görüntüsü 2024-10-28 210346](https://github.com/user-attachments/assets/5b2c5694-047e-43ff-acec-7e67bdf7674e)" alt="Resim 1" width="45%">
-  <img src="![Ekran Görüntüsü (348)](https://github.com/user-attachments/assets/38592677-e2f2-458d-bc6e-2965cab1bc2e)" alt="Resim 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/5b2c5694-047e-43ff-acec-7e67bdf7674e" alt="Resim 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/38592677-e2f2-458d-bc6e-2965cab1bc2e" alt="Resim 2" width="45%">
 </p>
 
 
