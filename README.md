@@ -9,8 +9,7 @@ Kullanıcıların yemek tariflerini saklayabileceği ve mevcut malzemelerle hang
 4. Kullanıcı arayüzü tasarımı ve kullanıcı dostu yazılım geliştirme hakkında deneyim kazandırılması.
 
 ## Ekran Resimleri
-![Ekran görüntüsü 2024-10-28 210346](https://github.com/user-attachments/assets/5b2c5694-047e-43ff-acec-7e67bdf7674e)
-![Ekran Görüntüsü (348)](https://github.com/user-attachments/assets/38592677-e2f2-458d-bc6e-2965cab1bc2e)
+![Ekran görüntüsü 2024-10-28 210346](https://github.com/user-attachments/assets/5b2c5694-047e-43ff-acec-7e67bdf7674e)![Ekran Görüntüsü (348)](https://github.com/user-attachments/assets/38592677-e2f2-458d-bc6e-2965cab1bc2e)
 
 
 ---
